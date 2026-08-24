@@ -1,2 +1,3 @@
 # Integrative-multi-omics-analysis
 Integrative multi-omics analysis of seed germination under salt stress
+In direct-seeded rice production, seed imbibition represents a critical window for salt stress perception and the establishment of salt tolerance; however, the key metabolic regulatory mechanisms underlying the emergence of variation in salt tolerance among rice populations during this stage remain poorly understood. To address this knowledge gap, we integrated population-scale metabolomics, machine learning, transcriptome–metabolome association analysis, and exogenous validation to systematically elucidate the metabolic regulatory mechanisms underlying salt tolerance during rice seed imbibition.
